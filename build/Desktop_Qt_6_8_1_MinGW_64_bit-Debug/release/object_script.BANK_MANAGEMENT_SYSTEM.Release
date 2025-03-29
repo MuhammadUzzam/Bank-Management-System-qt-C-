@@ -1,0 +1,16 @@
+release/centralwindow.o
+release/depositdialog.o
+release/main.o
+release/mainwindowofbank.o
+release/signupwindow.o
+release/transactionwindow.o
+release/transferdialog.o
+release/withdrawdialog.o
+release/qrc_images.o
+release/moc_centralwindow.o
+release/moc_depositdialog.o
+release/moc_mainwindowofbank.o
+release/moc_signupwindow.o
+release/moc_transactionwindow.o
+release/moc_transferdialog.o
+release/moc_withdrawdialog.o

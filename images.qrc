@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/download.png</file>
+        <file>images/unnamed.webp</file>
+        <file>images/create your account &amp; Start Saving Today!.png</file>
+        <file>images/wmremove-transformed.png</file>
+        <file>images/signup_username_icon.png</file>
+        <file>images/signup_password_icon.png</file>
+        <file>images/signup_email_icon.png</file>
+        <file>images/signup_confirm_pass_icon.png</file>
+        <file>images/signup_call_no_icon.png</file>
+        <file>images/signup_balance_icon.png</file>
+        <file>images/person_16282718.png</file>
+        <file>images/deposit_17765295.png</file>
+        <file>images/withdraw_17765296.png</file>
+        <file>images/money-6404791_1280.webp</file>
+        <file>images/transactions_17765304.png</file>
+        <file>images/transfer.png</file>
+        <file>images/download_9678306.png</file>
+        <file>images/download_4002349.png</file>
+        <file>images/mail.png</file>
+        <file>images/padlock.png</file>
+        <file>images/profile.png</file>
+        <file>images/transaction.png</file>
+    </qresource>
+</RCC>

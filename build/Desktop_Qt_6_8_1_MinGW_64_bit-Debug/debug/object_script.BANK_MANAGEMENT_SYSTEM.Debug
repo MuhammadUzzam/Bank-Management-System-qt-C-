@@ -1,0 +1,16 @@
+debug/centralwindow.o
+debug/depositdialog.o
+debug/main.o
+debug/mainwindowofbank.o
+debug/signupwindow.o
+debug/transactionwindow.o
+debug/transferdialog.o
+debug/withdrawdialog.o
+debug/qrc_images.o
+debug/moc_centralwindow.o
+debug/moc_depositdialog.o
+debug/moc_mainwindowofbank.o
+debug/moc_signupwindow.o
+debug/moc_transactionwindow.o
+debug/moc_transferdialog.o
+debug/moc_withdrawdialog.o
